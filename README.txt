@@ -9,7 +9,7 @@ Q1.java class for question 1 - Encryption
 3- 	a new file will be created with same name and file extention .rsa which contains the encrypted text
 
 Q2.java claas for question 2 - Decryption
-1-	on first line of main() put the name of the file to encrypte
+1-	on first line of main() put the name of the file to decrypte
 	for example: if file name is Test.rsa write Test - String fileName = "Test";
 2-	the program will ask to enter the value of D and N. Enter them
 3-	run the program
