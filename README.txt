@@ -1,6 +1,5 @@
 
-1-Run the classes on Eclipes or IntelliJ (I tested only on IntelliJ)
-2-put the test file in the project file in Eclipes/IntelliJ	a test file is included t22.txt
+*put the test file (file you want to encrypt) in the project file a test file is included t22.txt
 
 Q1.java class for question 1 - Encryption
 1- 	on first line of main() put the name of the file to encrypte without the file extension
